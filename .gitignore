@@ -1,0 +1,4 @@
+*.pdf
+production/**
+lixie clock-backups/**
+.DS_Store
